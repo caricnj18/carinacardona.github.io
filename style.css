@@ -1,0 +1,67 @@
+/*stylesheet for index.html, contact.html, portfolio.html*/
+
+h1{
+color: white;
+background-color: #4aaaa5;
+padding: 30px;
+margin: 30px;
+text-align: center;
+border-color: #cccccc;
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2{
+color:#4aaaa5;
+border-bottom: 3px solid gray;
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h3{
+border-bottom: 3px solid gray;
+text-align: center;
+color: #4aaaa5;
+font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+body{
+background-color:rgb(240, 240, 240);
+border: 2px solid black;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+nav{
+text-align: right;
+background-color:rgb(240, 240, 240);
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+li {
+display: inline;
+color:LightGray;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+
+section{
+width: 650px;
+}
+
+aside {
+float: right;
+width: 270px;
+background-color: white;
+border:2px solid black;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+footer {
+float: center;
+color: white;
+background-color: #666666;
+border-top: 10px solid #4aaaa5;
+padding: 30px;
+margin: 30px;
+text-align: center;
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
